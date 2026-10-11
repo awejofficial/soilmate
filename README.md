@@ -74,7 +74,7 @@ For complete architectural specifications, see [docs/ARCHITECTURE.md](docs/ARCHI
 ### 1. Clone & Set Up Virtual Environment
 
 ```bash
-git clone https://github.com/your-username/soilmate.git
+git clone https://github.com/awejofficial/soilmate.git
 cd soilmate
 
 # Create virtual environment

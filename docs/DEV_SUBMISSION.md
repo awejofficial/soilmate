@@ -3,7 +3,7 @@ title: "SoilMate — Grow More. Scroll Less: An Open-Source AI Gardening Assista
 published: true
 tags: hacktoberfest, opensource, ai, python, touchgrass
 cover_image: https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=1200&auto=format&fit=crop&q=80
-canonical_url: https://github.com/your-username/soilmate
+canonical_url: https://github.com/awejofficial/soilmate
 ---
 
 ## 🌿 The Inspiration: What Happened to Touching Grass?
@@ -123,7 +123,7 @@ Check off each day as you complete it, track your percentage progress, and log d
 
 ## 🔗 Repository & Live Deployment
 
-- **GitHub Repository:** [https://github.com/your-username/soilmate](https://github.com/your-username/soilmate)
+- **GitHub Repository:** [https://github.com/awejofficial/soilmate](https://github.com/awejofficial/soilmate)
 - **Live Demo App:** [https://soilmate.streamlit.app](https://soilmate.streamlit.app)
 - **License:** Apache 2.0 (Open Source)
 
