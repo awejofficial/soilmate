@@ -1,0 +1,14 @@
+# Core Streamlit Web Application
+streamlit>=1.38.0
+
+# HTTP & API Client
+requests>=2.31.0
+
+# Schema Validation & Typing
+pydantic>=2.6.0
+
+# Environment Management
+python-dotenv>=1.0.1
+
+# Automated Testing
+pytest>=8.0.0

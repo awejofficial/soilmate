@@ -1,0 +1,38 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit Local Secrets & Cache
+.streamlit/secrets.toml
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.secret
+*.key
+
+# Local User Data & SQLite (ephemeral dev)
+*.sqlite3
+*.db
+user_garden_data.json
+.user_storage/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
